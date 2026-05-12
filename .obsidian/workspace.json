@@ -34,9 +34,35 @@
               "icon": "lucide-file",
               "title": "Networking"
             }
+          },
+          {
+            "id": "ba11e8e60ec77dbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design DropBox.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design DropBox"
+            }
+          },
+          {
+            "id": "e5408419ed5f76d5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Design Dropbox.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Design Dropbox"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 372.5
   },
   "right": {
     "id": "35964e64adda3c72",
@@ -193,11 +219,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "93748a366a96ce4e",
+  "active": "e5408419ed5f76d5",
   "lastOpenFiles": [
+    "Design DropBox.md",
+    "Excalidraw/Design Dropbox.md",
+    "Excalidraw/Drawing 2026-05-12 13.54.36.excalidraw.md",
+    "Excalidraw",
+    "System Design/Networking.md",
     "autopush.ps1",
     "New Text Document.txt",
     "Networking/HTTPS Request Pathway.md",
@@ -209,7 +241,6 @@
     "Pasted image 20260511132028.png",
     "Pasted image 20260511132026.png",
     "Networking/Images/OSI_Model.png",
-    "System Design/Networking.md",
     "System Design/Caching.md",
     "Untitled/desktop.ini",
     "Networking",
@@ -219,7 +250,6 @@
     "AWS Cloud/Dyanamo Db.md",
     "AWS Cloud",
     "System Design",
-    "Apache Spark",
     "Apache Spark/Apache Spark.md",
     "create a link.md",
     "Welcome.md"
