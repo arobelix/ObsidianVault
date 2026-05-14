@@ -56,3 +56,6 @@ for i in range(paths):
 	plt.plot(x_values, path)
 plt.show()
 ```
+
+Exact form solution is 
+$$S_t = S_0\space \text{exp}[{(\mu - \frac{1}{2}\sigma^2)t + \sigma W_t}]$$
